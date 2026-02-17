@@ -67,10 +67,10 @@ const jit = {
 ## 🏆 Coding Profiles
 
 <p align="center">
-  <a href="https://leetcode.com/jitsingha">
+  <a href="[https://leetcode.com/jitsingha](https://leetcode.com/u/jitsingha/)">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
-  <a href="https://www.geeksforgeeks.org/user/jitsingha">
+  <a href="[https://www.geeksforgeeks.org/user/jitsingha](https://www.geeksforgeeks.org/profile/jitsingha57)">
     <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
   </a>
 </p>
